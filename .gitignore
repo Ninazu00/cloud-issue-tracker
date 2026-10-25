@@ -1,6 +1,7 @@
 #Extra (NonTemplate)
 .DS_Store 
 Thumbs.db 
+.vercel/
 
 #Dependency directories
 node_modules/
